@@ -11,7 +11,7 @@
 #include <complex>
 #include <fstream>
 
-
+//HEJ MED DIG!
 using namespace std;
 typedef std::complex<double> Complex;
 typedef std::valarray<Complex> CArray;
